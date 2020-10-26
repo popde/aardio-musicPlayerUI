@@ -1,6 +1,6 @@
 # aardio-musicPlayerUI
 aardio界面练习-音乐播放器
-
+![image](https://github.com/popde/aardio-musicPlayerUI/blob/main/img/1586052994767863.gif)
 现在手机的ui好多, 今天仿一个不错的音乐播放器ui 界面.
 
 下面的程序只用到了aardio中的plus / listbox控件来实现.
