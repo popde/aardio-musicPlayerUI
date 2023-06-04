@@ -16,4 +16,4 @@ aardio界面练习-音乐播放器
 注: 界面上所用的字体,已打包在工程的lib/font文件夹里, 工程会自动安装该字体
 
 如果列表界面滑动会闪烁, 就去这个mainform.aardio界面里开启双缓冲即可!
-首发在: https://www.htmlayout.cn/t/371
+首发在: https://www.aardio.com.cn/t/371
